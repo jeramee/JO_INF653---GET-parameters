@@ -13,7 +13,7 @@ This project demonstrates a simple web processor using PHP. It accepts user inpu
 ## Files
 
 - **index.php:** The main PHP file containing the web processor code.
-- **process_form.php:** It processes the form parameter from the user.
+- **process_form.php:** It processes the form parameters from the user.
 - **view/form_elements.php:** The file containing the HTML form elements to be included in both GET and POST forms.
 - **css/main.css:** The stylesheet for basic styling.
 
